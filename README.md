@@ -1,6 +1,6 @@
 ## ¡Buenas! Soy Rodrigo Nieva <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
 
-⚡  Mi foco está en crecer como profesional **Backend Development** con Python.
+⚡ Actualmente soy **estudiante de 3er año de Ingeniería en Informática en UADE**. Mi foco está en crecer como profesional **Backend Development** con Python.
 
 ### 🚀 Proyectos destacados
 * **SmartStore Engine:** Desarrollo de un motor de e-commerce eficiente y escalable.
