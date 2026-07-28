@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Rodrigo Nieva</title>
+  <desc id="desc">Product Builder and Software Engineer. Diseño, código y negocio.</desc>
+  <rect width="1280" height="380" rx="22" fill="#121218"/>
+  <g opacity=".13" stroke="#fff">
+    <path d="M0 76h1280M0 152h1280M0 228h1280M0 304h1280"/>
+    <path d="M128 0v380M256 0v380M384 0v380M512 0v380M640 0v380M768 0v380M896 0v380M1024 0v380M1152 0v380"/>
+  </g>
+  <circle cx="1090" cy="60" r="210" fill="none" stroke="#fff" stroke-opacity=".15"/>
+  <circle cx="1090" cy="60" r="134" fill="#755CFF"/>
+  <rect x="954" y="233" width="250" height="86" rx="8" fill="#C9FF43" transform="rotate(-3 954 233)"/>
+  <text x="1000" y="286" font-family="monospace" font-size="18" font-weight="700" fill="#121218">BUILD → LEARN → SHIP</text>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#fff">
+    <text x="64" y="70" font-family="monospace" font-size="17" font-weight="700" letter-spacing="3" fill="#C9FF43">PRODUCT BUILDER · SOFTWARE ENGINEER</text>
+    <text x="60" y="176" font-size="76" font-weight="700" letter-spacing="-4">Rodrigo Nieva</text>
+    <text x="64" y="237" font-size="29" font-weight="500" fill="#B4B4B0">Diseño, código y negocio.</text>
+    <text x="64" y="296" font-family="monospace" font-size="15" letter-spacing="2" fill="#777873">BUENOS AIRES · ARGENTINA</text>
+  </g>
+</svg>
